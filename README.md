@@ -48,7 +48,6 @@ This project goes over how to create a ticket using Spiceworks.  Creating a tick
 <table>
   <tr>
     <td><img src="https://imgur.com/DZO16hc.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/emDpmn5.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
